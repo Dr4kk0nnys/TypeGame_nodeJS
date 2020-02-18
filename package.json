@@ -1,0 +1,14 @@
+{
+  "name": "typegame",
+  "version": "1.0.0",
+  "description": "Fast 'type game' from console",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dr4kk0nnys",
+  "license": "ISC",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
